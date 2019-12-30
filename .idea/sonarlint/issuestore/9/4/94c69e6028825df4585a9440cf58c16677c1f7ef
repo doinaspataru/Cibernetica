@@ -1,0 +1,36 @@
+
+_squid:S2184"BCast one of the operands of this addition operation to a "double".(‡†38í††½ó-
+>squid:S1659" Declare "v2" on a separate line.(¹³ÊÇ8®íô»ó-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ì£íùÿÿÿÿ8‹ó¶½ó-
+[
+squid:S106)"9Replace this use of System.out or System.err by a logger.(¾›âşüÿÿÿÿ8×‡ğ¼ó-
+esquid:S2184"BCast one of the operands of this addition operation to a "double".(Àğõ•ûÿÿÿÿ8í††½ó-
+[
+squid:S1065"9Replace this use of System.out or System.err by a logger.(îÕ‘«ûÿÿÿÿ8ò–´½ó-
+psquid:S00116	"LRename this field "N" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şø‡şÿÿÿÿ8—ë»ó-
+esquid:S2184"BCast one of the operands of this addition operation to a "double".(Åá¿¥şÿÿÿÿ8í††½ó-
+`squid:S2184("BCast one of the operands of this addition operation to a "double".(†Ú¥é8í††½ó-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÔîøÚ8”Òµ½ó-
+csquid:S2184"@Cast one of the operands of this integer division to a "double".(ÁùÜÜşÿÿÿÿ8´î›½ó-
+>squid:S1659" Declare "v1" on a separate line.(¹³ÊÇ8®íô»ó-
+=squid:S1659" Declare "u1" on a separate line.(ëûS8µ¹¼ó-
+nsquid:S00116"ORename this field "Xmax" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùãß¿8â‡í»ó-
+qsquid:S00116"MRename this field "Ru" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óÛ¿ıüÿÿÿÿ8µ¹¼ó-
+nsquid:S00116"ORename this field "Xmin" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÌ¬›8â‡í»ó-
+>squid:S1659" Declare "x3" on a separate line.(ÆÊÌÄ8ÜŞ»¼ó-
+esquid:S2184"BCast one of the operands of this addition operation to a "double".( ¿»Šüÿÿÿÿ8í††½ó-
+\squid:HiddenFieldCheck,"4Rename "i" which hides the field declared at line 4.(çÿ¹W8åü¼ó-
+esquid:S2184"BCast one of the operands of this addition operation to a "double".(Œ˜¾Áüÿÿÿÿ8í††½ó-
+csquid:S2184"@Cast one of the operands of this integer division to a "double".(óÛ¿ıüÿÿÿÿ8µ¹¼ó-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ä¡×•
+>squid:S1659" Declare "x2" on a separate line.(ÆÊÌÄ8ÜŞ»¼ó-
+=squid:S1659" Declare "u3" on a separate line.(ëûS8µ¹¼ó-
+[
+squid:S1068"9Replace this use of System.out or System.err by a logger.(¢Ş×‘úÿÿÿÿ8£Ø÷¾ó-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(º¸èÒûÿÿÿÿ8„¨í¼ó-
+psquid:S00117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üş«¥8ªè¼ó-
+=squid:S1659" Declare "u2" on a separate line.(ëûS8µ¹¼ó-
+psquid:S00117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†Ú¥é8ªè¼ó-

@@ -1,0 +1,30 @@
+
+V
+squid:S106*"9Replace this use of System.out or System.err by a logger.(£’ø8™úõºó-
+V
+squid:S106)"9Replace this use of System.out or System.err by a logger.(Üß¸¶8¸·õºó-
+vsquid:S00116"RRename this field "RuDerU2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²®³úÿÿÿÿ8î—¶ºó-
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ïÃ½ç8à±ğºó-
+csquid:HiddenFieldCheck"5Rename "k" which hides the field declared at line 10.(«•Ÿıÿÿÿÿ8½ùƒ»ó-
+qsquid:S00116"MRename this field "Ru" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ííˆ…üÿÿÿÿ8î—¶ºó-
+[
+squid:S106%"9Replace this use of System.out or System.err by a logger.(„ò¹Şüÿÿÿÿ8Ìâºó-
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÕŒÊ“ùÿÿÿÿ
+lsquid:S00116"MRename this field "Hk" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íàîø8î—¶ºó-
+Dsquid:S1659"&Declare "u2Actual" on a separate line.(¿éä¥8¿¦”»ó-
+qsquid:S00116"RRename this field "RuDerU1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¶¥Ü8î—¶ºó-
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(½ä¶Âıÿÿÿÿ8à±ğºó-
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ëæİÒûÿÿÿÿ8Ã´¸»ó-
+>squid:S1659" Declare "u2" on a separate line.(Ê´Êë8Á¤Ãºó-
+[
+squid:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±¹»ó-
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ü¹ëıÿÿÿÿ8ş­öºó-
+Csquid:S1659" Declare "g2" on a separate line.(«Úô½øÿÿÿÿ8•Šëºó-
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‹ê¸»ó-
+[
+squid:S106&"9Replace this use of System.out or System.err by a logger.(³Å¡äıÿÿÿÿ8’¨åºó-
